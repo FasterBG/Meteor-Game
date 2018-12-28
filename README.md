@@ -1,2 +1,2 @@
 # Meteor-Game
-Dodge the redd balls (the meteors :-) ) to survive
+Dodge the red balls (the meteors :-) ) to survive
